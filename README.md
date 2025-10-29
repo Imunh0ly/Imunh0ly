@@ -5,7 +5,7 @@ I'm **Holy**, Im a new developer learning and making things
 
 ### 🛠️ What I Do
 
-- 🔎 leaning java and unity #
+- 🔎 leaning java and C++
 - 🛒 Working on making mc plugings
 
 
