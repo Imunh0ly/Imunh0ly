@@ -1,12 +1,11 @@
 # Hey there 👋
 ### 🔗 Welcome to My GitHub Profile ##
-I'm **Holy**, Im a new developer learning and making things
+I'm **Kira**, Im a new developer learning and making things
 
 
 ### 🛠️ What I Do
 
-- 🔎 leaning java and C++
-- 🛒 Working on making mc plugings
+- 🔎 i make general use software 
 
 
 
@@ -22,21 +21,21 @@ I'm **Holy**, Im a new developer learning and making things
 
 
 ### 🧰 Tools & Frameworks:
-🔧 **Node.js, Unity** 
+🔧 **Node.js, Unity, Git** 
 
 ---
 
 ### 🚀 What I'm Currently Up To
 
-- **Learning** — learning java and unity# 
-- **Unity** — making skins and worlds for games  
+- **Learning** — learning C++ 
+- **Unity** — making avatar's and worlds for games  
 - **Making Fun Stuff** — all the time  
 
 ---
 
 ### 📬 Get in Touch
 
-- 💬 Discord: `queenh0lly`
+- 💬 Discord: `ohhellokira`
 
 ---
 ![Holy's GitHub stats](https://github-readme-stats-lake-zeta-50.vercel.app/api?username=Imunh0ly&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
