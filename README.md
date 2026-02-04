@@ -14,7 +14,7 @@ I'm **Kira**, Im a new developer learning and making things
  📘 Languages and Frameworks
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-
+[![C++](https://img.shields.io/badge/C++-2080FF?style=for-the-badge&logo=cplusplus&logoColor=white)]()
 
 
 ### 🧰 Tools & Frameworks:
